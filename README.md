@@ -47,7 +47,7 @@ Source : https://x.com/TeaFi_Official/status/1883152850374557883?t=PyiLO35Ntms_x
 ### Linux
 1. clone project repo
    ```
-   git clone https://github.com/Widiskel/tea-fi-bot.git 
+   git clone https://github.com/SKaaalper/tea-fi-bot.git 
    cd tea-fi-bot
    ```
 2. run
@@ -72,7 +72,7 @@ Source : https://x.com/TeaFi_Official/status/1883152850374557883?t=PyiLO35Ntms_x
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
-   git clone https://github.com/Widiskel/tea-fi-bot.git
+   git clone https://github.com/SKaaalper/tea-fi-bot.git
    ```
    and cd to project dir
    ```
