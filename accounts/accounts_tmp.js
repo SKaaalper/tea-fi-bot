@@ -9,4 +9,6 @@
  * ^^ ABOVE IS JUST GUIDE FILL YOUR ACCOUNT BELOW
  */
 
-export const privateKey = [];
+export const privateKey = [
+  "your_private_key"
+];
